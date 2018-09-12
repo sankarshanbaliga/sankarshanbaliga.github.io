@@ -1,2 +1,2 @@
 # sankarshanbaliga.github.io
-redme
+readme
